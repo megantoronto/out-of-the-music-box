@@ -1,0 +1,251 @@
+artist,song_name,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,lyrical_valence,pca1,pca2
+Rick Astley,Never Gonna Give You Up,=,=,=,=,=,=,=,=,=,=,=,=,=,7.413049833,10.10069398
+Lynyrd Skynyrd,Sweet Home Alabama,--,=,=,=,--,=,-,=,++,=,=,=,=,5.392627492,-16.55638729
+Lynyrd Skynyrd,Sweet Home Alabama,--,=,=,=,--,=,-,=,++,=,=,=,=,4.764682149,-17.33464157
+moe.,Blond Hair And Blue Eyes,-,=,=,=,--,=,-,--,++,=,-,=,-,6.69505657,-12.46496735
+Linda Eder,Never Dance,--,=,=,=,--,=,=,+,--,+,=,=,=,-8.111282316,-8.210014099
+The Corrs,Somebody for Someone,=,=,=,=,--,=,=,=,++,+,=,=,=,17.44197444,-1.865074074
+Toby Keith,Too Far This Time,=,=,=,=,--,=,=,-,=,+,=,=,=,17.46337726,-1.882530275
+Big D and the Kids Table,"Stop, Look & Listen (Shake Life Up)",-,=,=,=,--,=,=,=,++,-,=,=,=,7.061113559,-11.47495314
+Pressure,Money Honey,-,=,=,=,--,=,=,--,++,=,-,=,-,11.41304203,-7.277794075
+James Morrison,Right Here,=,=,=,=,--,=,=,=,--,=,-,=,-,21.62632749,6.326093145
+Belinda Carlisle,Love Revolution,--,=,=,=,--,=,=,++,+,-,=,=,=,-18.92160623,-0.75605722
+Slum Village,Conant Gardens - Bonus,--,=,=,=,--,=,++,-,--,=,=,=,=,2.185853829,-19.10743152
+Gloria Estefan,So Good,--,=,=,=,--,=,++,=,--,=,=,=,=,6.272688123,-17.2678537
+Wiz Khalifa,"Y U Mad (feat. Megan Thee Stallion, Ty Dolla $ign & Mustard)",=,=,-,=,--,=,=,=,--,=,-,=,-,15.1164376,-6.414166968
+Ultravox,Rise,--,=,=,=,--,=,++,-,++,=,=,=,=,-18.84172302,1.751599014
+La Arrolladora Banda El Limón De Rene Camacho,Se Me Canso El Corazon,++,=,=,=,--,=,-,=,--,-,=,=,=,26.8296292,31.69538243
+Helloween,Future World,++,-,=,=,--,=,+,--,--,=,-,=,-,33.87121457,18.2864304
+Palaye Royale,Hang on to Yourself,++,=,=,=,--,=,=,--,++,=,-,=,-,35.01547459,21.22002359
+Straight No Chaser,Up on the Housetop,--,=,=,=,--,=,=,-,++,-,-,=,-,1.111540405,-22.09598245
+Suga Free,Peace of Mind (feat. Debra Edwards & Cody Elles),--,=,=,=,--,=,++,=,--,=,=,=,=,-6.916444639,-6.604307265
+Warrant,Uncle Tom's Cabin,--,=,=,=,--,=,++,--,++,-,-,=,-,1.615829734,-17.36008709
+James Morrison,Right Here,-,=,=,=,--,=,=,=,--,=,-,=,-,11.57013698,-6.118621575
+Buck-O-Nine,She's Fat,--,=,=,=,--,=,+,--,++,++,=,=,=,-16.45790844,-1.462441518
+Gary Allan,Hangover Tonight,+,=,=,=,--,=,=,--,--,=,=,=,=,22.50283379,10.76095688
+Kylie Minogue,Time Will Pass You By - Paul Masterson Mix,--,=,=,=,--,=,=,--,++,=,-,=,-,-21.07031515,-1.589994872
+half•alive,arrow,++,=,-,=,--,=,++,--,++,=,=,=,=,36.67257596,25.02383199
+Paulina Rubio,El Ultimo Adios,=,-,=,=,--,=,+,--,--,=,-,=,-,-8.840353363,12.95493449
+The Band,Don’t Do it - Live At The Academy Of Music / 1971 / Soundboard Mix,-,=,=,=,--,=,++,++,++,+,-,=,-,8.496630046,-8.778070655
+David Bowie,Rebel Rebel - 1999 Remaster,--,=,=,=,--,=,=,--,--,++,=,=,=,-21.01308127,-4.208842198
+Keith Urban,God's Been Good To Me,+,=,=,=,--,=,=,-,-,=,=,=,=,27.5416661,10.54415626
+Marianne Faithfull,The Price Of Love,--,=,=,=,--,=,=,=,++,+,=,=,=,-19.66463162,-4.013018795
+Marianne Faithfull,The Price of Love,--,=,=,=,--,=,=,=,++,+,=,=,=,-20.28282023,-4.799236832
+Big Star,Jesus Christ,-,=,=,=,--,=,-,=,++,++,=,=,=,10.03245845,-4.875937742
+The Cars,Let's Go - 2016 Remaster,-,=,=,=,--,=,=,--,++,-,-,=,-,-13.67764465,2.720225605
+Roxy Music,The Bogus Man - Live,+,=,=,=,--,=,=,=,++,-,=,=,=,15.05984833,19.35001754
+half•alive,arrow,+,=,-,=,--,=,++,--,++,=,=,=,=,27.86629547,14.14045717
+The Kinks,Acute Schizophrenia Paranoia Blues,--,=,=,=,--,=,=,-,=,++,=,=,=,6.8804826,-15.18717816
+Wang Chung,Everybody Have Fun Tonight,--,=,=,=,--,=,=,--,++,=,-,=,-,-23.65086327,-2.07525337
+Little Texas,Long Way Down,--,=,=,=,--,=,=,-,--,=,=,=,=,-27.18884728,8.499701631
+Little Texas,Long Way Down,--,=,=,=,--,=,=,-,--,=,=,=,=,-27.82221212,7.72582956
+Kenny Lynch,Misery,--,=,=,=,--,=,=,--,--,-,=,=,=,-23.28830962,-2.368646562
+Bryan Adams,Not Guilty,=,=,=,=,--,=,=,-,--,=,-,=,-,-6.346793246,9.652459018
+Talk Show,End of the World,--,=,=,=,--,=,=,=,-,=,=,=,=,-32.36611004,6.256253685
+Train,Shake Up Christmas - Xmas Anthem,-,=,=,=,--,=,=,--,--,++,=,=,=,10.18442112,-7.570935932
+Talk Show,Behind,--,=,=,=,--,=,=,=,-,=,=,=,=,-32.99715223,5.480503521
+The Searchers,Money (That's What I Want) - Mono,--,=,=,=,--,=,=,--,++,-,=,=,=,-13.75205068,1.493778002
+Ricky Skaggs,This World Is Not My Home,-,=,=,=,--,=,=,=,++,+,=,=,=,-15.97374477,7.148432332
+Foghat,Live Now - Pay Later - 2016 Remaster,--,=,=,=,--,=,=,--,++,--,=,=,=,-19.22676736,-0.508923314
+The Who,The Dirty Jobs,=,-,=,=,--,=,++,+,++,=,--,=,--,-7.423332259,10.52317853
+Third Eye Blind,One of Those Christmas Days,--,=,=,=,--,=,=,--,--,=,=,=,=,-2.012520043,-19.57039177
+Third Eye Blind,Semi-Charmed Life,--,=,=,=,--,=,=,--,--,=,=,=,=,-1.383797943,-18.79276432
+Ely Bruna,Just the Two of Us,--,=,=,=,--,=,++,+,+,=,-,=,-,2.689319193,-23.37240065
+Gwen Stefani,Misery - Lincoln Jesser Remix,-,=,-,=,--,=,=,--,--,=,-,=,-,12.16712331,-9.173087443
+Sen Morimoto,Jupiter,--,=,=,=,--,=,++,--,--,+,=,=,=,-22.30705269,-3.162441026
+K.A.A.N.,Bottom,-,=,=,=,--,=,=,=,--,=,=,=,=,1.927507824,-3.467313783
+Danger Danger,Walk It Like Ya Talk It (feat. Paul Laine),--,=,=,=,--,=,+,--,--,++,-,=,-,3.691344852,-19.03867729
+Jazztronik,Humming Bird,--,=,=,=,--,=,+,=,-,=,=,=,=,-0.260175884,-15.84308722
+Sir-G,Escape - Radio Mix,--,=,=,=,--,=,=,--,++,++,=,=,=,-19.17566325,0.735897317
+Tommy James & The Shondells,Moses & Me,-,=,=,=,--,=,=,++,++,++,=,=,=,-23.07266203,15.45973189
+Dio,In Dreams,=,=,=,=,--,=,-,--,--,=,-,=,-,32.14712774,-6.037778874
+George Baker Selection,Little Green Bag,--,=,=,=,--,=,=,--,=,=,=,=,=,0.02181027,-14.78544522
+Jerrod Niemann,I Ain't Lonely Alone,-,=,=,=,--,=,=,=,--,-,=,=,=,-13.0470664,3.496387506
+Billy Preston,Lonely No More,--,=,=,=,--,=,=,--,++,-,=,=,=,2.394736146,-20.56188338
+Paulina Rubio,El Ultimo Adios,--,-,=,=,--,=,+,--,-,=,-,=,-,-16.40351264,3.638321588
+Carole King,Crazy,--,=,=,=,--,=,-,+,=,++,=,=,=,-18.4486908,0.147547878
+Michael Bolton,Let's Make A Long Story Longer,-,=,=,=,--,=,++,=,--,-,-,=,-,8.675124551,-14.06634387
+The Kooks,Westside - The Nextmen Remix,=,=,=,=,--,=,=,-,++,=,=,=,=,-3.292258397,18.75707917
+Arrested Development,Mr. Wendal,--,=,=,=,--,=,++,=,++,=,=,=,=,-6.391743212,-12.17277899
+Paulina Rubio,Enamorada,--,-,=,=,--,=,+,--,--,=,=,=,=,-20.16231929,-1.038389516
+Rachael Yamagata,I Want You,+,=,=,=,--,=,=,--,++,=,-,=,-,3.1506425,31.55170488
+Jamie T,Sheila,--,=,=,=,--,=,=,-,--,=,=,=,=,4.709867287,-22.43438292
+Five For Fighting,Stand Up,=,=,=,=,--,=,-,--,--,=,-,=,-,15.08093486,-2.527395205
+Alice In Chains,I Stay Away,-,--,=,=,--,=,=,-,++,=,-,=,-,24.13928935,-17.56713131
+Prabhtoj Singh,Lovesick Puppy,=,=,=,=,--,=,++,--,--,++,=,=,=,13.25424877,-2.336880305
+Trey Songz,Without a Woman,--,=,=,=,--,=,++,--,--,=,-,=,-,-7.796537503,-4.605633315
+Alice In Chains,I Stay Away,=,--,=,=,--,=,=,-,++,=,-,=,-,31.71721604,-8.262547557
+George Thorogood & The Destroyers,Down In The Bottom,=,=,=,=,--,=,=,--,++,=,-,=,-,-3.166586487,13.51074034
+Pam Tillis,Shake The Sugar Tree (Live),--,=,=,=,--,=,+,=,--,+,=,=,=,-6.589533055,-14.58489437
+Jamie T,Sheila,--,=,=,=,--,=,=,-,--,=,=,=,=,4.714002212,-22.43778905
+Suga Free,Game On My Mind,--,=,=,=,--,=,++,--,--,=,-,=,-,4.08468224,-16.78397425
+Jamie T,Sheila,--,=,=,=,--,=,=,-,--,-,=,=,=,3.459538593,-23.99539184
+America,One Chance,-,=,-,=,--,=,-,=,-,=,-,=,-,1.800517212,-2.077851191
+Queen,Seven Seas Of Rhye - Live at Wembley '86,++,-,=,=,--,=,+,=,--,=,-,=,-,23.35409778,24.21828751
+The Muffs,Baby Go Round,--,-,=,=,--,=,=,=,--,=,-,=,-,-31.20693495,4.033510429
+Queen,My Baby Does Me - Remastered 2011,-,=,=,=,--,=,-,--,++,+,-,=,-,6.770306201,-8.667495221
+The Mighty Mighty Bosstones,Almost Anything Goes,-,-,=,=,--,=,++,=,-,-,-,=,-,-22.08772214,15.94957428
+The Movement,Diamond (feat. Jacob Hemphill of SOJA),++,=,=,=,--,=,=,+,--,=,=,=,=,38.29529948,21.13944571
+El Avance,Cielo y Estrellas,=,=,=,=,--,=,=,+,++,++,=,=,=,16.02660422,-2.006983882
+Travis Tritt,Whiskey Ain't Workin' (Live) [feat. Marty Stuart],--,=,=,=,--,=,=,--,++,=,=,=,=,-20.74962297,3.294182261
+Billy Preston,Lonely No More,--,=,=,=,--,=,=,--,++,-,=,=,=,1.144947868,-22.12334051
+Long Beach Dub Allstars,Rosarito,+,=,=,=,--,=,++,=,++,=,=,=,=,24.44299115,14.33634243
+Fabolous,Ground Up,--,=,=,=,--,=,++,--,++,-,=,=,=,11.3699451,-29.1051284
+The Internet,They Say (feat. Tay Walker),++,=,=,=,--,=,+,++,++,+,-,=,-,32.5600809,16.77503507
+Earl Scruggs,Everybody's Talkin,--,-,=,=,--,=,=,=,++,++,=,=,=,0.407017685,-21.52742439
+The Vogues,Easy to Say,=,=,=,=,--,=,=,++,--,++,=,=,=,-8.81153551,11.64542325
+Missy Elliott,Play That Beat,--,=,=,=,--,--,++,-,++,-,=,=,=,1.686066369,-19.98927006
+The Searchers,Needles and Pins,--,-,=,=,--,=,+,++,--,=,=,=,=,-18.50674621,-4.949609048
+Clint Black,Loosen Up My Strings,-,=,=,=,--,=,=,--,++,-,=,=,=,-12.53307607,5.652377435
+Ovi,Vengo De Nada,--,=,=,=,--,=,=,++,--,=,=,=,=,0.543086198,-19.06493869
+"Earth, Wind & Fire",September,=,=,=,=,--,=,=,=,++,+,=,=,=,-0.596653959,20.43469093
+Clay Walker,Mexico,-,=,=,=,--,=,=,=,--,++,=,=,=,14.61229433,-8.579574631
+The Sugarhill Gang,Funk You up (Long Version),--,=,=,=,--,=,+,--,--,=,=,=,=,-9.947750243,-11.86918508
+Average White Band,Kiss Me - LP / Single Version,--,=,=,=,--,=,=,-,+,=,=,=,=,-27.5165226,8.764673037
+Ultravox,Remembering,-,=,=,=,--,=,++,-,++,++,-,=,-,-14.36696202,7.135491605
+JR JR,War Zone,=,=,=,=,--,=,=,=,++,=,=,=,=,6.815856771,4.154301445
+Dio,Cold Feet,-,=,=,=,--,=,=,--,-,=,=,=,=,9.759660794,-4.655118412
+Steely Dan,Charlie Freak,=,=,-,=,--,=,=,=,++,=,=,=,=,-9.038078421,32.40412713
+Billy Ocean,Love Zone,=,=,=,=,--,=,+,+,=,=,=,=,=,25.43243932,3.247637366
+Tom Tom Club,Genius of Love,--,=,=,=,--,=,++,=,-,-,=,=,=,-2.805612341,-18.92912132
+Tom The Mail Man,Entertainment,--,=,=,=,--,=,++,=,-,-,=,=,=,-2.177667285,-18.15086661
+Trey Anastasio,Pigtail,--,=,=,=,--,=,=,++,++,=,=,=,=,-0.885382538,-20.48200315
+Trey Anastasio,"Pigtail (Live, 11/3/2017)",-,=,=,=,--,=,=,++,++,=,=,=,=,9.174129647,-8.039951157
+MØ,The Sea,-,=,=,=,--,=,=,++,++,-,=,=,=,10.57548032,-10.45885996
+Underworld,Born Slippy (Nuxx),-,=,=,=,--,=,=,--,++,=,-,=,-,-23.65905546,15.93409018
+Whitey Morgan and the 78's,Fiddler's Inn,=,=,=,=,--,=,-,--,++,++,=,=,=,16.47119254,-6.22384701
+Michelle Branch,You’re Good,=,=,=,=,--,=,=,-,++,=,-,=,-,15.72982752,-5.624186934
+Insolence,Antiserum,--,=,=,=,--,=,++,--,=,=,=,=,=,5.921490576,-20.84204387
+The Slits,Face Place,-,=,-,=,--,=,=,--,--,=,=,=,=,-11.96986049,9.055407517
+Billy Lee Riley,Blue Collar Blues,--,=,=,=,--,=,=,=,-,=,=,=,=,-23.38875529,-2.287161644
+Collin Raye,Don't Tell Me You're Not In Love,--,=,-,=,--,=,-,++,--,=,=,=,=,5.648375974,-15.47651972
+Workout Music ,Stitches (Running Mix),--,=,=,=,--,=,++,=,++,++,-,=,-,9.373785699,-28.77640497
+Poison,Nothin' But A Good Time - Remastered 2006,-,=,=,=,--,=,-,++,--,=,-,=,-,22.15292633,-19.81887498
+Simple Minds,Kick It In - Edit,-,=,=,=,--,=,=,--,++,=,-,=,-,-17.07241202,6.751829467
+Soul For Real,Every Little Thing I Do (Re-Recorded),--,=,=,=,--,=,++,-,--,-,=,=,=,-0.540228566,-19.4747317
+Melissa Etheridge,Memphis Train,=,=,=,=,--,=,=,--,--,=,-,=,-,2.737925311,7.451908595
+Stevie Wonder,Weakness,--,=,=,=,--,=,=,+,--,=,=,=,=,13.73980811,-32.30664538
+Stevie Wonder,We Can Work It Out,--,=,=,=,--,=,=,+,--,=,=,=,=,13.73438053,-32.30226332
+Nicki Minaj,Starships - Edit,-,=,=,=,--,=,++,--,++,=,=,=,=,11.51392006,-6.074039739
+Mötley Crüe,Anybody Out There?,=,-,=,=,--,=,+,--,++,=,--,=,--,11.52020497,-4.792344709
+George Michael,Cars and Trains,=,=,-,=,--,=,=,-,++,=,-,=,-,11.85859383,10.36546993
+Japan,Gentlemen Take Polaroids - Remastered 2003,=,=,=,=,--,=,=,++,++,+,=,=,=,3.091456916,22.59681989
+Ted Nugent,"Baby, Please Don't Go - Live at Taylor County Coliseum, Abilene, TX - November 1977",-,=,=,=,--,=,+,--,++,=,=,=,=,-13.86509855,4.157601543
+X Ambassadors,Nervous,--,=,=,=,--,=,++,--,--,++,-,=,-,3.701446651,-12.61594285
+The Pointer Sisters,All I Know Is the Way I Feel,-,=,=,=,--,=,=,-,++,-,=,=,=,-4.137905652,4.009042207
+Euge Groove,Another Sad Love Song,-,=,=,=,--,=,=,=,++,=,-,=,-,12.1041809,-11.69471411
+Doc Robinson,Wild Beauty,-,=,=,=,--,=,=,=,++,+,=,=,=,-26.90123699,19.84183632
+Rainbow,Love's No Friend (Live),=,=,=,=,--,=,=,=,--,=,-,=,-,9.879749398,-3.466028009
+Robert Gordon,There You Go,--,=,=,=,--,=,=,-,++,=,-,=,-,-16.90436747,-4.958593548
+Carpenters,Please Mr. Postman,--,=,=,=,--,=,=,-,--,=,=,=,=,-21.48348239,5.173849498
+G-DRAGON,THE LEADERS,-,=,=,=,--,=,++,--,--,=,-,=,-,11.187093,-9.667278764
+Paulina Rubio,El Ultimo Adios,-,-,=,=,--,=,+,--,--,=,=,=,=,-15.13647435,5.185684416
+Wire,Morning Bell,--,=,=,=,--,=,=,--,++,++,=,=,=,4.120365834,-20.67194522
+Joe Cocker,Walk Through The World With Me,-,=,=,=,--,=,=,--,++,=,-,=,-,14.50377688,-20.06396112
+Dio,In Dreams - 2019 - Remaster,-,-,=,=,--,=,=,-,--,=,-,=,-,23.38109098,-16.95398378
+Billy Ocean,Love Zone,--,=,=,=,--,=,+,+,++,=,=,=,=,7.191795147,-19.29728486
+Big Mountain,Love Is On the Way,--,=,-,=,--,=,=,+,--,-,=,=,=,-22.95017758,-1.355737316
+Buck Owens,41st Street Lonely Hearts' Club,--,=,=,=,--,=,=,++,--,-,=,=,=,4.334403687,-19.55855553
+Yusuf / Cat Stevens,The Devil Came from Kansas,--,=,=,=,--,=,=,=,-,=,=,=,=,3.78417759,-21.68556585
+Luca Brunetti,Tropical Swing,--,=,=,=,--,=,=,=,++,++,-,=,-,6.586566857,-20.0934989
+Taylor Swift,...Ready For It?,++,=,=,=,--,=,=,--,++,=,=,=,=,34.17788018,28.32706141
+George Harrison,I Really Love You - Remastered 2004,=,=,=,=,--,=,=,=,++,-,=,=,=,-7.246912058,12.95216136
+Del Shannon,Needles and Pins,=,=,=,=,--,=,=,-,++,=,=,=,=,-6.949831161,17.85621881
+"The Broadway Cast Of ""The Boy From Oz""","Wrapped up Nice (feat. Hugh Jackman, Stephanie J. Block, Tim Fitz Gerald, Isabel Keating & Beth Fowler)",--,=,=,=,--,=,=,++,--,++,=,=,=,-22.32870843,-3.14468846
+The Maine,Everything I Ask For,-,-,=,=,--,=,=,--,--,=,--,=,--,-9.948886294,6.135885221
+Faith No More,I Won't Forget You - 2016 Remaster,=,=,=,=,--,=,=,--,++,=,--,=,--,10.34000903,-2.551747345
+Bad Company,Sweet Lil' Sister - 2017 Remaster,=,=,=,=,--,=,=,-,--,=,=,=,=,-8.252653581,20.19532376
+Randolph's Grin,Orange - Subtraction: Architect Remix,--,=,=,=,--,=,=,--,++,+,-,=,-,-19.96785964,-5.05370182
+The Who,I Am The Sea - Live In London / 2013,-,-,=,=,--,=,++,--,--,++,-,=,-,-13.78994314,10.52701801
+Suga Free,S.G.V.,--,=,=,=,--,=,++,--,--,=,=,=,=,2.107771996,-17.75834668
+Limp Bizkit,Crushed - Album Version (Edited),--,=,-,=,--,=,++,-,++,-,=,=,=,3.299520355,-22.57968678
+Taylor Swift,...Ready For It? - Karaoke Version,+,=,=,=,--,=,=,--,++,-,=,=,=,24.74537447,16.66401337
+CAN,Pauper's Daughter And I,--,=,-,=,--,=,++,++,++,=,=,=,=,-20.12473948,4.075521114
+Taylor Swift,…Ready For It? - Commentary,++,=,=,=,--,=,=,--,++,-,=,=,=,40.48057499,36.09082578
+Tegan and Sara,Hype,=,=,-,=,--,=,=,--,++,-,-,=,-,-8.466472549,13.9395244
+Duran Duran,Late Bar - Manchester Square Demo,-,=,=,=,--,--,=,--,++,=,-,=,-,-11.435175,9.909228238
+Metallica,Hero Of The Day,++,-,=,=,--,=,=,--,++,=,=,=,=,17.87582797,27.3611297
+Jay & The Techniques,"Apples, Peaches, Pumpkin Pie",--,=,=,=,--,=,=,++,--,=,=,=,=,-30.0329271,5.655583058
+Elton John,Little Jeannie,-,=,-,=,--,=,-,++,--,=,=,=,=,-26.04782467,17.86603973
+Frankie Ruiz,Tú Con Él,--,=,=,=,--,=,=,+,++,+,=,=,=,3.711186948,-22.91311582
+Nicki Minaj,Starships - Edit,-,=,=,=,--,=,++,--,++,=,=,=,=,10.27302865,-7.642692682
+Little Texas,God Blessed Texas,=,=,=,=,--,=,+,++,=,++,=,=,=,-7.18809834,16.7627112
+The Cowsills,The Cruel War - Live,--,=,=,=,--,=,=,+,++,=,=,=,=,-28.95082884,3.494471872
+Dirty Heads,Burn By Myself,=,=,=,=,--,=,-,-,+,=,=,=,=,23.74544161,5.897941583
+Bob Marley & The Wailers,Buffalo Soldier - Edit Version,=,=,-,=,--,=,++,=,--,=,=,=,=,3.168018022,22.53527121
+Lara Fabian,I Will Love Again,++,=,=,=,--,--,=,--,--,=,-,=,-,9.928300734,35.07341456
+Foxy,Get Off - Remastered,+,=,-,=,--,=,++,--,++,-,=,=,=,3.816987509,33.5845277
+The Turtles,Let Me Be - Remastered,--,=,-,=,--,=,=,--,--,++,=,=,=,-18.73415062,5.523297076
+Foreign Air,Echo,-,=,=,=,--,=,=,--,++,=,-,=,-,9.330526445,-5.593663482
+Jewel T,Rock Nice,--,=,=,=,--,=,++,--,--,--,-,=,-,-2.163339624,-19.44856564
+Common,The Light,-,=,-,=,--,=,++,-,--,=,=,=,=,10.05842036,-12.61258667
+Little Big Town,Love Profound,-,=,-,=,--,=,=,++,++,=,=,=,=,-26.64679876,17.06457852
+James Blunt,1973,++,=,=,=,--,=,-,-,++,=,=,=,=,24.32254757,46.5819504
+Eddie Money,When I Come Around,--,=,=,=,--,=,+,-,--,=,--,=,--,4.108455557,-16.80304069
+Lucho Castellanos y su Grupo,La cumbia barulera,--,=,=,=,--,=,=,-,--,=,=,=,=,-0.259669866,-20.9877703
+Classified,Grand Slam,--,=,=,=,--,=,++,++,--,=,-,=,-,6.7845652,-15.10968752
+David Lee Roth,Experience - 2007 Remaster,=,=,=,=,--,=,=,=,++,=,-,=,-,5.121908857,0.38024278
+Michael Bublé,Someday (feat. Meghan Trainor),+,=,-,=,--,=,=,=,--,=,=,=,=,30.50123615,9.437628407
+Bridgit Mendler,Diving (Vice Remix),=,=,=,=,--,--,++,=,++,-,-,=,-,27.85613091,-11.57024494
+Mandrill,Believe in You,--,=,=,=,--,--,=,++,++,=,=,=,=,-19.4188653,-2.925486277
+A Cor Do Som,Assanhado,--,=,=,=,--,=,=,--,++,+,=,=,=,-23.63362583,0.482208031
+August Alsina,Don't Matter,-,=,-,=,--,=,++,=,--,--,-,=,-,-15.9734985,4.577294166
+M People,Just For You,=,=,=,=,--,=,=,=,--,+,-,=,-,17.44393721,-1.866010231
+Sham 69,The Game,--,=,=,=,--,=,+,-,--,++,-,=,-,-23.05810416,0.01687497
+blackbear,me & ur ghost,++,=,-,=,--,=,-,-,--,=,=,=,=,36.6518336,25.04032037
+Marilyn Manson,mOBSCENE,--,=,=,=,--,=,+,--,++,++,-,=,-,-20.78913221,2.040666772
+Ne-Yo,Jealous,=,=,-,=,--,=,=,-,--,-,-,=,-,18.56255308,1.087650997
+Buck Owens,Ashes of Love,--,=,=,=,--,=,=,=,-,+,=,=,=,-12.10585185,-1.12316834
+Paul Carrack,"Georgia - Live at Royal Albert Hall, London, 2001",-,=,=,=,--,=,=,-,--,-,=,=,=,-12.34927057,4.217888879
+Rancid,Farewell Lola Blue,=,=,=,=,--,=,=,--,--,+,=,=,=,-4.698177144,18.60708346
+Heaven 17,Penthouse And Pavement,--,=,=,=,--,--,+,--,--,-,=,=,=,-19.79841544,-0.046572073
+The Stranglers,Duchess,-,=,=,=,--,=,++,--,++,=,=,=,=,-15.38460722,11.81611941
+FosseyTango,War Torn Streets (feat. Glen Matlock),--,-,=,=,--,=,+,-,--,+,-,=,-,-3.623953272,-18.26696081
+Funkadelic,Standing on the Verge of Getting It On,+,=,=,=,--,=,++,-,--,++,=,=,=,14.00050668,22.77880266
+J-Love,Justice League,--,=,=,=,--,=,++,-,--,=,-,=,-,2.47850106,-23.20197304
+The Dears,Raise The Dead,=,=,=,=,--,=,=,++,--,++,-,=,-,26.37345481,6.34582908
+Ronan Keating,Little Thing Called Love - Single Mix,+,=,=,=,--,=,=,-,--,=,-,=,-,10.66951234,21.61516282
+Ronan Keating,Lost For Words,++,=,=,=,--,=,=,-,--,=,-,=,-,16.32024848,28.62007677
+The Who,Pinball Wizard - Live At Woodstock,=,-,=,=,--,--,+,-,--,=,=,=,=,-10.16895439,14.02965536
+Richard Elliot,The Lower Road,+,=,=,=,--,=,=,++,--,--,=,=,=,37.098991,6.675609645
+Black Sabbath,Rock 'N' Roll Doctor - 2014 Remaster,=,-,=,=,--,=,+,++,++,++,-,=,-,-6.595732169,17.56975126
+Foghat,"Slipped, Tripped, Fell In Love",--,=,=,=,--,--,=,--,++,++,=,=,=,-20.51629236,-2.038167119
+Skinny Puppy,Convulsion - Live,-,=,=,=,--,=,++,--,++,+,-,=,-,11.57055093,-13.83553503
+Alabama,No Bad Days,--,=,=,=,--,=,-,++,++,=,-,=,-,-7.94530783,-10.9157461
+The Outfield,Part Of Your Life,=,=,=,=,--,=,=,++,--,=,--,=,--,16.84898549,-2.6705136
+Roy Orbison,No Chain at All,=,=,-,=,--,=,=,=,-,-,=,=,=,-8.659054936,11.52254585
+Method Man,Bring The Pain,--,=,-,=,--,=,++,+,++,=,--,=,--,0.637014832,-16.5678213
+Phil Vassar,Voice in My Head,-,=,-,=,--,=,-,-,--,=,--,=,--,10.57251512,-11.74145742
+Everything Everything,The Actor,+,=,-,=,--,=,=,++,++,=,--,=,--,5.547650821,29.61413722
+Visage,Aurora - Map Of Human Heart Extended Version,--,=,=,=,--,--,=,--,++,-,=,=,=,-20.26515913,-2.241389821
+Sam Cooke,All Right Now - Take 4/Alt.,++,=,=,=,--,=,=,++,--,=,=,=,=,16.0890744,36.52099588
+Amber Dirks,Without You,--,=,=,=,--,--,=,--,++,--,=,=,=,-22.29293331,-3.173841194
+The Rubettes,Keep On Dancing,--,=,=,=,--,--,=,--,++,--,=,=,=,-22.29293331,-3.173841194
+Fleetwood Mac,Little Lies - Extended Version; 2017 Remaster,=,=,=,=,--,=,=,-,++,=,=,=,=,1.873723253,22.29496087
+Danger Danger,Walk It Like Ya Talk It (feat. Ted Poley),--,=,=,=,--,=,=,--,--,++,-,=,-,4.958939624,-17.49169732
+Fabolous,Brooklyn,-,=,=,=,--,=,++,--,--,=,=,=,=,8.89342533,-14.24339553
+Dirty Heads,Hear You Coming,=,=,=,=,--,=,=,-,--,+,=,=,=,19.09232051,9.660642914
+Kane Brown,Lost in the Middle of Nowhere (feat. Becky G),++,=,=,=,--,--,=,--,++,-,-,=,-,48.23751331,16.95979836
+Buddy Knox,Maybelline,--,=,=,=,--,=,=,+,+,++,=,=,=,-22.27157818,-3.19127304
+Joy Division,She's Lost Control,--,=,=,=,--,=,++,=,++,=,=,=,=,-32.98393717,5.469808982
+The Steel Woods,Better in the Fall,=,=,=,=,--,=,=,-,=,=,--,=,--,11.79855285,-2.444711818
+King Diamond,Lucy Forever,--,=,=,=,--,--,=,--,++,+,-,=,-,-17.44190225,3.192388706
+John Fogerty,Someday Never Comes,=,=,=,=,--,=,-,--,--,=,-,=,-,-6.529607552,20.08926896
+a-ha,Cry Wolf - Demo,-,=,=,=,--,--,+,+,++,=,=,=,=,-17.09372129,6.768784653
+Matt Nathanson,Surrender,--,=,-,=,--,=,=,++,--,=,-,=,-,-15.13775229,2.6155284
+Hilltop Hoods,Chase That Feeling - Remix Instrumental,-,=,=,=,--,=,=,--,++,++,=,=,=,8.037549611,-13.55090085
+The Byrds,All I Have Are Memories - Alternate Instrumental - Take 21,=,-,-,=,--,=,=,=,--,=,=,=,=,2.793045472,20.26652162
+Ñejo & Dalmata,Algo Musical,--,=,=,=,--,=,+,=,--,+,-,=,-,3.445485705,-23.983693
+Mary Mary,Somebody,--,=,=,=,--,=,=,--,++,+,=,=,=,10.29270666,-28.23318784
+Joy Division,She's Lost Control - 2010 Remaster,=,=,=,=,--,=,++,=,++,=,=,=,=,-12.23697776,31.1321716
+Joy Division,She's Lost Control,--,=,=,=,--,=,++,=,++,=,=,=,=,-30.46984453,8.580952137
+Poppy Ajudha,David's Song - Tom Misch Remix,--,=,-,+,--,=,=,++,++,=,-,+,-,-39.66913359,19.87762052
+Montgomery Gentry,All I Know About Mexico,=,=,=,=,--,=,=,--,--,++,-,=,-,-9.28410181,12.02773379
+Kodak Black,Benji's,=,=,-,=,--,=,=,--,--,=,--,=,--,-4.427452562,22.24778461
+XTC,I'm Bugged - 2001 Remaster,-,=,=,=,--,=,=,-,--,++,-,=,-,-11.1275184,5.802457441
+Juicy J,Lit (feat. Young Dolph & 21 Savage),-,=,=,=,--,=,++,--,--,=,=,=,=,-6.327718187,7.064606532
+Glee Cast,Billionaire (Glee Cast Version),++,=,=,=,--,--,++,++,--,=,=,=,=,42.38943332,11.40022046
+Material Issue,What Girls Want,--,=,=,=,--,=,=,-,--,++,=,=,=,-24.5427108,-1.354795089
+Toby Keith,Haven't Had a Drink All Day,=,=,=,=,--,=,=,++,--,-,=,=,=,15.69000711,0.837421349
+Aretha Franklin,Freeway of Love - Extended Remix,--,=,=,=,--,--,+,++,--,=,=,=,=,-15.1083988,2.590856844
+Darius Rucker,One More Night,=,=,-,=,--,=,+,--,--,-,-,=,-,0.057592527,7.047945121
