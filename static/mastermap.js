@@ -7,8 +7,13 @@ var yScale = d3.scaleLinear()
     .range([height, 0]);
 var svg = d3.select("#graph")
     .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    //.attr("viewBox",`0 0  ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+    .attr("viewBox",'0 0 700 500')
+    //.attr('viewBox','0 0 '+Math.min(width+ margin.left + margin.right,height + margin.top + margin.bottom)+' '+Math.min(width+ margin.left + margin.right,height + margin.top + margin.bottom))
+    //.attr('preserveAspectRatio','xMinYMin')
+    // .attr("width", width + margin.left + margin.right)
+    /* .attr("width",'100%')
+    .attr("height",'100%') */
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 function homeGraph(){

@@ -8,10 +8,14 @@ body {
   padding:0px;
 }
 
+.submit{
+  display: inline-block;
+}
+
   .autocomplete {
     /*the container must be positioned relative:*/
     position: relative;
-    display: inline-block;
+    display:inline-block;
     vertical-align: middle;
   }
   input {
@@ -22,22 +26,28 @@ body {
   }
   input[type=text] {
     background-color: #f1f1f1;
-    width: 100%;
+    width: 40%;
   }
   input[type=submit] {
     background-color: DodgerBlue;
     color: #fff;
   }
+  .list-item{
+    text-align: left;
+  }
   .autocomplete-items {
-    position: relative;
+    position: absolute;
+    
     border: 1px solid #d4d4d4;
     border-bottom: none;
     border-top: none;
-    z-index: 99;
+    z-index: 100;
     /*position the autocomplete items to be the same width as the container:*/
+    width:40%;
     top: 100%;
-    left: 0;
-    right: 0;
+    left: 51%;
+    transform: translateX(-51%);
+    margin-left:20px;
   }
   .autocomplete-items div {
     padding: 10px;
@@ -195,6 +205,13 @@ h4 {
   font-weight:normal;
 }
 
+.intro{
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
 .help-tip {
  display: inline-block;
 } 
@@ -270,11 +287,19 @@ option{
 
 .middle {
   width: 40%;
+  text-align: center;
 }
 
 .right {
   width: 30%;
   margin-right: -10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 1000px) {
+  .column {
+    width: 100%;
+  }
 }
 
 /* Clear floats after the columns */
@@ -300,6 +325,25 @@ form[class*="button"] {
 }
 
 .svg-container{
-  display: inline-block;
+  /* display: inline-block; */
   margin: 0 auto;
+}
+
+svg{
+  width:100%;
+  height:500px;
+}
+
+@media screen and (max-width: 1568px) and (min-width: 1000px) {
+
+  .myslider {
+    -webkit-appearance: none;
+    background: #c7eae5;
+    width: 50%;
+    height: 20px;
+    opacity: 2;
+    float: right;
+    vertical-align: middle;
+    }
+  
 }

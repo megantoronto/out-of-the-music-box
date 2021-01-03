@@ -10,18 +10,25 @@
 </head>
 
 <body>
+  <div class="row">
   
   
+  <div class="intro">
     <form method="POST" autocomplete="off" class="button" id="search" >
       
+      
+        <h2>Enter Song:</h2>
+              <input id="autocomplete" class='form-control' type='text' name='songSearch'
+                     placeholder='Begin typing a song...'/>
+            <input type='submit' id="button" class="button" onclick="remove();" style="background-color: #01665e;"/>
+          
+          
+    </div>
 
-<div class="row">
-  
+
 
   <div class="column left">
-    <div style="text-align: right; vertical-align: middle;">
-      <h2>Enter Song:</h2>
-    </div>
+    
     <div style="margin-top: 20px; margin-bottom: 20; text-align: center;">
       <h2>Adjust Song Features</h2>
       <span class="help-tip"><p>Type in a song and move the slider to adjust the features of your recommendations compared to the song you chose. For example, if you want your recommendations to be more danceable than your song, adjust the slider to “Slightly Higher”. When you’re done, hit submit and enjoy!</p></span>
@@ -107,18 +114,13 @@
     <input type="range" min="1" max="5" value="3" class="myslider" id="sliderRange" name="key"> 
     <p style='line-height: 0px; text-align: end;'><span id="demo" class="rangeVal"></span></p> 
   </div>
-  
 </div>
-<div class="column middle">
-  <div class='col-xs-12 col-sm-12 col-md-10 col-lg-10'>
-    <div class='input-group'>
-        <input id="autocomplete" class='form-control' type='text' name='songSearch'
-               placeholder='Begin typing a song...'/>
-        
 
-    </div>
-</div>
-  <div id="graph" class="svg-container" style="text-align: center;">
+</form>
+  
+<div class="column middle">
+  
+  <div id="graph" class="svg-container" >
     <script src="{{ url_for('static', filename='mastermap.js') }}"></script>
     <script>
     var x = '{{home_page}}'
@@ -135,14 +137,10 @@
   </div>
 </div>
 
+  
+
 
 <div class="column right">
-  <div>
-    <input type='submit' id="button" class="button" onclick="remove();" style="background-color: #01665e;"/>
-  </form>
-  </div>
-
-
 <div style="margin-top: 20px; margin-bottom: 20; text-align: center;">
   <h2>Recommended Songs</h2>
 </div>
@@ -153,8 +151,9 @@
          <iframe id="iframe{{loop.index}}" src="{{iframe}}" frameborder="0" allowtransparency="true" allow="encrypted-media" width="530" height="100"></iframe>
         </div>
     {% endfor %}
-  </div>
 </div>
+</div>
+</body>
 
 
 </body>
